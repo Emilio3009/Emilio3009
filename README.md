@@ -3,8 +3,8 @@
 ```js
 const emilio3009 = {
   pronouns: 'he'|'him',
-  code: [HTML, CSS, Javascript],
-  tools: [Node, React],
+  code: [HTML, CSS, Javascript, Python],
+  tools: [Node, Django],
 }
 ```
 
